@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/PierreGoe/GuestCodeBK#readme",
   "dependencies": {
+    "cli-progress": "^3.9.1",
     "puppeteer": "^10.4.0"
   }
 }
