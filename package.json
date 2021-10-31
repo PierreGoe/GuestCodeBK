@@ -1,0 +1,22 @@
+{
+  "name": "guestcodebk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierreGoe/GuestCodeBK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierreGoe/GuestCodeBK/issues"
+  },
+  "homepage": "https://github.com/PierreGoe/GuestCodeBK#readme",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
